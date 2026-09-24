@@ -13,7 +13,7 @@
   - projects：存放参考项目
   - teachers：教师评价
     - xxx：教师姓名（请使用缩写）
-      - source：图片等其他资源
+      - resource：图片等其他资源
       - 2026.md：评价所依据信息的发生时间
   - readme.md：课程基本信息及导航
 - **handbook**：存放贡献模板，计算机学习资源
